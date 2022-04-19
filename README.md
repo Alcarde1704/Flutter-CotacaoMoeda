@@ -1,16 +1,9 @@
-# cotacoes_moeda
+# Projeto Cotação Moeda
 
-A new Flutter project.
+Um projeto de estudo utilizando troca de telas (Navigator), textfields com controller, manipulação e tratamento de variáveis e listas como relatório. 
 
-## Getting Started
+## Iniciando projeto
 
-This project is a starting point for a Flutter application.
+Na tela inicial, temos uma caixa de texto para inserir dados e algumas funcionalidades utilizando aquele valor em real digitado pelo usuário.
+após inserir o valor, temos 4 opções, Converter para Dólar, Euro ou Peso Argentino e por fim, o relatório e contador de cada cotação realizada.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
